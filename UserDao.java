@@ -64,7 +64,7 @@ public class UserDao {
 		}
 
 		String user = "liuc";
-		String pwd = "005967511";
+		String pwd = "xxxxxxx";
 
 		try {
 			conn = DriverManager.getConnection(URL, user, pwd);
